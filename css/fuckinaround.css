@@ -1,0 +1,22 @@
+body {
+	background-color: #000000;
+	background:url(http://www.fg-a.com/wallpapers/black-background-block-shapes.jpg);
+}
+
+h1 {
+	color: #cc0000;
+}
+
+ul {
+	color: pink;
+}
+
+p {
+	color: #888888;
+	font-size: 14px;
+}
+
+ul li {
+	font-size: 18px;
+	font-style: italic;
+}
